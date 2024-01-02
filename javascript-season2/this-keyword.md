@@ -27,7 +27,8 @@ Let's run the program in strict mode
 
 We will get the value is undefined
 - this inside non-strict mode - (this substitution)
-according to this keyword substition 
+- according to (this keyword substition )
+
 If this keyword is undefined or null and this keyword will be replaced with global object ,  and it will work in the non strict mode.
 
 
