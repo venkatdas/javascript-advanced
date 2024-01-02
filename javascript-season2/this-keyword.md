@@ -5,3 +5,8 @@
 And there's a few different ways in which you can use the this keyword, so let's see the most common cases and how it behaves in each of them.
 
 - An important comment is that this is not a variable – it's a keyword, so its value can't be changed or reassigned.
+
+## this in global space
+- whatever you write outside of the fucntion it will call global scope or top level
+
+`var a=5` // global scope
