@@ -9,4 +9,27 @@ And there's a few different ways in which you can use the this keyword, so let's
 ## this in global space
 - whatever you write outside of the fucntion it will call global scope or top level
 
-`var a=5` // global scope
+`var a=5` // global scope '
+
+`console.log(this) // global object`
+In browser's globalObject is window and some other environments it might be a global depending upon the where we are running the this keyword
+
+![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/6f4a8ca3-3592-4af8-9278-5491e61cff48)
+
+## this  keyword inside a function
+- This keyword referes to an window object inside the function , where as this window object is different from the global window object
+- this keyword inside a fucntion will vary depends on the strict and non strict mode of Javascipt
+- strict mode means JS follows some rules to run the program
+
+Let's run the program in strict mode 
+
+![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/b601f48e-daff-4ea2-98b4-02c93cad1d0f)
+
+We will get the value is undefined
+- this inside non-strict mode - (this substitution)
+according to this keyword substition 
+If this keyword is undefined or null and this keyword will be replaced with global object ,  and it will work in the non strict mode.
+
+
+
+
