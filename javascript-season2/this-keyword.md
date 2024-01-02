@@ -32,5 +32,9 @@ We will get the value is undefined
 If this keyword is undefined or null and this keyword will be replaced with global object ,  and it will work in the non strict mode.
 
 
+- The below image is this keyword will run in non strict mode
+![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/ae2557ac-c11d-40e4-b623-287019d9e347)
+
+
 
 
