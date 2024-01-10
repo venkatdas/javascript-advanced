@@ -7,3 +7,8 @@
 
 
 ![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/916659a9-7751-4893-8955-fe6407d87f70)
+
+
+
+- Regular function will result the data
+- where as if you try  to create function with arrow and function expression it will results undefined
