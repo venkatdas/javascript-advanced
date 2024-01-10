@@ -14,6 +14,12 @@
 ![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/1f3aed37-1b1b-41be-ae2f-c7bedb5ea5da)
 
 
+### not defined
+
+
+- The term "not defined" in JavaScript typically refers to an error condition that occurs when you attempt to use a variable that has not been declared at all.
+- It indicates that the interpreter cannot find any declaration for the referenced variable, leading to a ReferenceError.
+
 ```Javascript
 
 console.log(a)
