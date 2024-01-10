@@ -24,6 +24,23 @@ _ Intially, in memory cell, jS creates memory for each and every variable as und
 
 
 
+## JS call stack
+
+- call stack maintains the** order of exection **of execution contexts.
+- call stack also known as below words
+
+![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/870d5bec-b5a7-484c-88f5-e69d2cc22813)
+
+
+
+![image](https://github.com/venkatdas/javascript-advanced/assets/43024084/ad99b322-b970-4074-9047-940222cdab76)
+
+- Whole global execution stack is pushed into the stack now it will go the function again it will create new context onece it is executed it will popup from the stack and then it will navigate to the another function once it is completed it will pop untill stack is empty.
+
+
+
+
+
 
 
 
